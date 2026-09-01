@@ -1,0 +1,24 @@
+TRJ VISUAL GALLERY - SIMPLE MEDIA UPDATE
+
+1. Put photos in:
+   media\photos\YOUR FOLDER NAME\
+
+2. Put videos in:
+   media\videos\YOUR FOLDER NAME\
+
+3. Nature photos:
+   media\nature\YOUR FOLDER NAME\
+
+4. Wildlife photos:
+   media\wildlife\YOUR FOLDER NAME\
+
+5. After ANY add / delete / replace:
+   Double-click UPDATE_MEDIA_INDEX.bat
+
+6. Wait for:
+   MEDIA INDEX UPDATED SUCCESSFULLY
+
+7. Open/refresh index.html (Ctrl + R).
+
+You can run UPDATE_MEDIA_INDEX.bat as many times as you want.
+Python is NOT required.

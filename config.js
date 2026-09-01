@@ -1,0 +1,51 @@
+window.TRJ_CONFIG = {
+  adminPin: "5467",
+  recoveryUnlockCodes: ["TRJ-UNLOCK-5467"],
+  freeActivationCode: "TRJFREE2026",
+  promoCodes: [
+    {code:"T5467",plan:"DAY24",active:true,expires:""},{code:"T3465",plan:"SILVER",active:true,expires:""},
+    {code:"T8379",plan:"GOLD",active:true,expires:""},{code:"T9826",plan:"GOLD",active:true,expires:""},
+    {code:"T7839",plan:"GOLD",active:true,expires:""},{code:"T9239",plan:"GOLD",active:true,expires:""},
+    {code:"T8722",plan:"GOLD",active:true,expires:""},{code:"T9282",plan:"GOLD",active:true,expires:""}
+  ],
+  email: "trjvisualsmedialk@gmail.com", whatsapp: "94775476288", socialSearchName: "TRJ Visuals Media",
+  intros: {
+    natureSi:"ස්වභාවධර්මය අපගේ ජීවිතයේ නිහඬ සුන්දරත්වය, වර්ණ, ආලෝකය සහ ජීව විවිධත්වය එකට ගෙන එන අගනා ලෝකයකි. මෙම ගැලරියෙන් පරිසරයේ සුන්දර අවස්ථා ඡායාරූප ලෙස සුරැකේ.",
+    natureEn:"Nature is a living gallery of light, colour, landscapes and biodiversity. This collection preserves peaceful environmental moments through photography and visual storytelling.",
+    wildlifeSi:"වන සතුන් ස්වභාවික පරිසර පද්ධතියේ අත්‍යවශ්‍ය කොටසකි. ඔවුන්ගේ හැසිරීම්, වාසස්ථාන සහ විශේෂත්වය ගෞරවයෙන් හා ආරක්ෂිත දුරකින් ඡායාරූපගත කිරීම මෙම ගැලරියේ අරමුණයි.",
+    wildlifeEn:"Wildlife is an essential part of our natural ecosystems. This gallery celebrates animals, habitats and behaviour through respectful photography captured from a safe distance."
+  },
+  folders: { photos: [], videos: [], nature: [], wildlife: [] },
+  helpQuestions: [
+    ["කැමරාවක් ගන්නකොට මුලින්ම බලන්න ඕනි මොනවද?","ඔබේ budget එක, භාවිතය (photo/video), lens availability, autofocus, low-light performance සහ battery life බලන්න."],
+    ["ISO කියන්නේ මොකක්ද?","ISO කියන්නේ camera sensor එක ආලෝකයට දක්වන සංවේදීතාව. ISO වැඩි කළාම image එක bright වෙනවා, නමුත් noise වැඩි වෙන්න පුළුවන්."],
+    ["Shutter speed කියන්නේ මොකක්ද?","Shutter speed එක sensor එකට ආලෝකය ලැබෙන කාලය. Fast shutter එක motion freeze කරනවා; slow shutter එක motion blur ලබාදෙනවා."],
+    ["Aperture කියන්නේ මොකක්ද?","Aperture (f-number) lens එකෙන් ඇතුල්වන ආලෝක ප්‍රමාණය පාලනය කරනවා. අඩු f-number එකෙන් background blur වැඩි වෙනවා."],
+    ["Portrait photo එකකට හොඳ settings මොනවද?","සාමාන්‍යයෙන් wide aperture (f/1.8–f/4), subject එකට focus, අවශ්‍ය shutter speed එකක් සහ අඩු ISO එකක් භාවිතා කරන්න."],
+    ["Landscape photo එකකට හොඳ settings?","f/8–f/11 වගේ aperture එකක්, low ISO, tripod එකක් සහ අවශ්‍ය නම් slower shutter speed එකක් හොඳ ආරම්භයක්."],
+    ["RAW ද JPEG ද හොඳ?","Editing flexibility සඳහා RAW හොඳයි. ඉක්මනින් share කරන්න සහ file size අඩු කරන්න JPEG පහසුයි."],
+    ["White balance කියන්නේ මොකක්ද?","White balance එක ආලෝකයේ color temperature නිවැරදි කරලා සුදු වස්තු ස්වභාවික සුදු ලෙස පෙන්වීමට උදව් කරනවා."],
+    ["Photo blur වෙන්නේ ඇයි?","Slow shutter, camera shake, වැරදි focus හෝ subject movement නිසා blur වෙන්න පුළුවන්."],
+    ["Low light photo හොඳට ගන්නේ කොහොමද?","Wide aperture, image stabilization/tripod, සුදුසු slow shutter සහ අවශ්‍ය තරමට ISO වැඩි කිරීම භාවිතා කරන්න."],
+    ["Golden hour කියන්නේ කවදාද?","Sunrise පසු සහ sunset පෙර ලැබෙන මෘදු, උණුසුම් ආලෝක කාලය golden hour කියලා හඳුන්වනවා."],
+    ["Rule of thirds කියන්නේ මොකක්ද?","Frame එක 3x3 grid එකකට බෙදා subject එක grid lines හෝ intersections අසල තැබීම composition එක balance කරන්න උදව් කරනවා."],
+    ["Bokeh කියන්නේ මොකක්ද?","Focus නොවූ background/foreground ප්‍රදේශයේ මෘදු blur quality එක bokeh කියලා කියනවා."],
+    ["Prime lens එකක් කියන්නේ?","Fixed focal length එකක් තියෙන lens එක prime lens එකක්. සාමාන්‍යයෙන් bright aperture සහ sharp image quality ලැබෙන්න පුළුවන්."],
+    ["Zoom lens එකේ වාසිය මොකක්ද?","Lens මාරු නොකර focal length වෙනස් කර framing ඉක්මනින් වෙනස් කරන්න පුළුවන්."],
+    ["50mm lens එක හොඳ මොකටද?","Portrait, street සහ everyday photography සඳහා 50mm ජනප්‍රියයි; natural perspective එකක් සහ හොඳ background blur ලබාගන්න පුළුවන්."],
+    ["Tripod එකක් ඕනි ඇයි?","Long exposure, low light, landscape සහ stable video සඳහා camera shake අඩු කරයි."],
+    ["ND filter එක මොකටද?","Lens එකට එන ආලෝකය අඩු කරලා daylight එකේ slow shutter හෝ wide aperture භාවිතා කරන්න උදව් කරනවා."],
+    ["CPL filter එක මොකටද?","Reflections සහ glare අඩු කර sky/foliage colors වැඩි contrast එකකින් පෙන්වීමට උදව් කරනවා."],
+    ["Autofocus mode එක තෝරන්නේ කොහොමද?","Still subject සඳහා single AF, moving subject සඳහා continuous AF සාමාන්‍යයෙන් සුදුසුයි."],
+    ["Video frame rate 24fps ද 60fps ද?","24fps cinematic look එකකට; 60fps smooth motion සහ slow-motion සඳහා වඩා සුදුසුයි."],
+    ["Video shutter speed එක කොච්චරද?","සාමාන්‍ය guideline එක frame rate එකේ දෙගුණයට ආසන්න shutter denominator එකක්: 25fps නම් 1/50 වගේ."],
+    ["4K video එකේ වාසිය මොකක්ද?","වැඩි detail, crop/reframe flexibility සහ high-resolution output ලබාගන්න පුළුවන්; storage වැඩි අවශ්‍ය වෙනවා."],
+    ["Gimbal එකක් මොකටද?","Walking සහ moving shots වල camera movement smooth කර cinematic footage ලබාගන්න උදව් කරනවා."],
+    ["Camera movement එක smooth කරන්නේ කොහොමද?","Slow controlled steps, elbows close, gimbal/tripod සහ planned movement භාවිතා කරන්න."],
+    ["Photo edit කරනකොට මුලින්ම මොනවද කරන්න ඕනි?","Exposure, white balance, crop/straighten, highlights/shadows සහ contrast වගේ basic corrections මුලින් කරන්න."],
+    ["Over-edit වීම වැළැක්වෙන්නේ කොහොමද?","Before/after නිතර compare කර saturation, sharpening සහ skin smoothing අධික නොකර natural detail තබාගන්න."],
+    ["Memory card එක format කරන්න ඕනිද?","Backup කරලා පසුව camera එක තුළම format කිරීම සාමාන්‍යයෙන් හොඳ practice එකක්. වැදගත් files තිබේ නම් මුලින් copy කරන්න."],
+    ["Camera sensor එක පිරිසිදු කරන්නේ කොහොමද?","Built-in sensor cleaning මුලින් භාවිතා කරන්න. Physical cleaning අවශ්‍ය නම් නිවැරදි tools/qualified service එකක් භාවිතා කිරීම ආරක්ෂිතයි."],
+    ["Photography improve කරන්න හොඳම විදිහ?","නිතර shoot කරන්න, light සහ composition observe කරන්න, ඔබේ photos review කරන්න සහ එකම scene එක settings වෙනස් කර compare කරන්න."]
+  ]
+};
