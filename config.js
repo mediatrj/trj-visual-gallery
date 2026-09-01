@@ -3,7 +3,7 @@ window.TRJ_CONFIG = {
   recoveryUnlockCodes: ["TRJ-UNLOCK-5467"],
   freeActivationCode: "TRJFREE2026",
   promoCodes: [
-    
+    {code:"T5467",plan:"DAY24",active:true,expires:""},{code:"T3465",plan:"SILVER",active:true,expires:""},
     {code:"T8379",plan:"GOLD",active:true,expires:""},{code:"T9826",plan:"GOLD",active:true,expires:""},
     {code:"T7839",plan:"GOLD",active:true,expires:""},{code:"T9239",plan:"GOLD",active:true,expires:""},
     {code:"T8722",plan:"GOLD",active:true,expires:""},{code:"T9282",plan:"GOLD",active:true,expires:""}
